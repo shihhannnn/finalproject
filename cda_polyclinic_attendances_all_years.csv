@@ -1,0 +1,1226 @@
+Year,Epidemiological_Week,Disease,Average_Daily_Attendances
+2022,1,Acute Conjunctivitis,38
+2022,1,Acute Diarrhoea,297
+2022,1,Acute Upper Respiratory Infections,977
+2022,1,Chicken Pox,3
+2022,1,"Hand, Foot and Mouth Disease",9
+2022,2,Acute Conjunctivitis,43
+2022,2,Acute Diarrhoea,330
+2022,2,Acute Upper Respiratory Infections,1263
+2022,2,Chicken Pox,2
+2022,2,"Hand, Foot and Mouth Disease",8
+2022,3,Acute Conjunctivitis,44
+2022,3,Acute Diarrhoea,316
+2022,3,Acute Upper Respiratory Infections,1567
+2022,3,Chicken Pox,2
+2022,3,"Hand, Foot and Mouth Disease",9
+2022,4,Acute Conjunctivitis,41
+2022,4,Acute Diarrhoea,317
+2022,4,Acute Upper Respiratory Infections,1911
+2022,4,Chicken Pox,1
+2022,4,"Hand, Foot and Mouth Disease",4
+2022,5,Acute Conjunctivitis,47
+2022,5,Acute Diarrhoea,363
+2022,5,Acute Upper Respiratory Infections,2945
+2022,5,Chicken Pox,4
+2022,5,"Hand, Foot and Mouth Disease",9
+2022,6,Acute Conjunctivitis,39
+2022,6,Acute Diarrhoea,323
+2022,6,Acute Upper Respiratory Infections,2645
+2022,6,Chicken Pox,3
+2022,6,"Hand, Foot and Mouth Disease",8
+2022,7,Acute Conjunctivitis,35
+2022,7,Acute Diarrhoea,317
+2022,7,Acute Upper Respiratory Infections,3256
+2022,7,Chicken Pox,3
+2022,7,"Hand, Foot and Mouth Disease",11
+2022,8,Acute Conjunctivitis,37
+2022,8,Acute Diarrhoea,293
+2022,8,Acute Upper Respiratory Infections,3247
+2022,8,Chicken Pox,2
+2022,8,"Hand, Foot and Mouth Disease",9
+2022,9,Acute Conjunctivitis,33
+2022,9,Acute Diarrhoea,309
+2022,9,Acute Upper Respiratory Infections,2982
+2022,9,Chicken Pox,3
+2022,9,"Hand, Foot and Mouth Disease",7
+2022,10,Acute Conjunctivitis,36
+2022,10,Acute Diarrhoea,292
+2022,10,Acute Upper Respiratory Infections,2626
+2022,10,Chicken Pox,2
+2022,10,"Hand, Foot and Mouth Disease",5
+2022,11,Acute Conjunctivitis,37
+2022,11,Acute Diarrhoea,269
+2022,11,Acute Upper Respiratory Infections,2071
+2022,11,Chicken Pox,4
+2022,11,"Hand, Foot and Mouth Disease",6
+2022,12,Acute Conjunctivitis,41
+2022,12,Acute Diarrhoea,326
+2022,12,Acute Upper Respiratory Infections,1817
+2022,12,Chicken Pox,3
+2022,12,"Hand, Foot and Mouth Disease",5
+2022,13,Acute Conjunctivitis,36
+2022,13,Acute Diarrhoea,328
+2022,13,Acute Upper Respiratory Infections,1497
+2022,13,Chicken Pox,3
+2022,13,"Hand, Foot and Mouth Disease",4
+2022,14,Acute Conjunctivitis,40
+2022,14,Acute Diarrhoea,374
+2022,14,Acute Upper Respiratory Infections,1469
+2022,14,Chicken Pox,2
+2022,14,"Hand, Foot and Mouth Disease",7
+2022,15,Acute Conjunctivitis,43
+2022,15,Acute Diarrhoea,388
+2022,15,Acute Upper Respiratory Infections,1439
+2022,15,Chicken Pox,4
+2022,15,"Hand, Foot and Mouth Disease",8
+2022,16,Acute Conjunctivitis,37
+2022,16,Acute Diarrhoea,408
+2022,16,Acute Upper Respiratory Infections,1467
+2022,16,Chicken Pox,4
+2022,16,"Hand, Foot and Mouth Disease",9
+2022,17,Acute Conjunctivitis,40
+2022,17,Acute Diarrhoea,416
+2022,17,Acute Upper Respiratory Infections,1431
+2022,17,Chicken Pox,4
+2022,17,"Hand, Foot and Mouth Disease",11
+2022,18,Acute Conjunctivitis,45
+2022,18,Acute Diarrhoea,499
+2022,18,Acute Upper Respiratory Infections,1663
+2022,18,Chicken Pox,2
+2022,18,"Hand, Foot and Mouth Disease",9
+2022,19,Acute Conjunctivitis,39
+2022,19,Acute Diarrhoea,438
+2022,19,Acute Upper Respiratory Infections,1708
+2022,19,Chicken Pox,4
+2022,19,"Hand, Foot and Mouth Disease",13
+2022,20,Acute Conjunctivitis,42
+2022,20,Acute Diarrhoea,412
+2022,20,Acute Upper Respiratory Infections,1975
+2022,20,Chicken Pox,3
+2022,20,"Hand, Foot and Mouth Disease",10
+2022,21,Acute Conjunctivitis,40
+2022,21,Acute Diarrhoea,404
+2022,21,Acute Upper Respiratory Infections,1889
+2022,21,Chicken Pox,4
+2022,21,"Hand, Foot and Mouth Disease",16
+2022,22,Acute Conjunctivitis,32
+2022,22,Acute Diarrhoea,340
+2022,22,Acute Upper Respiratory Infections,1650
+2022,22,Chicken Pox,3
+2022,22,"Hand, Foot and Mouth Disease",16
+2022,23,Acute Conjunctivitis,32
+2022,23,Acute Diarrhoea,362
+2022,23,Acute Upper Respiratory Infections,1744
+2022,23,Chicken Pox,4
+2022,23,"Hand, Foot and Mouth Disease",14
+2022,24,Acute Conjunctivitis,40
+2022,24,Acute Diarrhoea,340
+2022,24,Acute Upper Respiratory Infections,1806
+2022,24,Chicken Pox,5
+2022,24,"Hand, Foot and Mouth Disease",15
+2022,25,Acute Conjunctivitis,39
+2022,25,Acute Diarrhoea,352
+2022,25,Acute Upper Respiratory Infections,2093
+2022,25,Chicken Pox,6
+2022,25,"Hand, Foot and Mouth Disease",16
+2022,26,Acute Conjunctivitis,45
+2022,26,Acute Diarrhoea,387
+2022,26,Acute Upper Respiratory Infections,2576
+2022,26,Chicken Pox,5
+2022,26,"Hand, Foot and Mouth Disease",26
+2022,27,Acute Conjunctivitis,36
+2022,27,Acute Diarrhoea,382
+2022,27,Acute Upper Respiratory Infections,2910
+2022,27,Chicken Pox,3
+2022,27,"Hand, Foot and Mouth Disease",23
+2022,28,Acute Conjunctivitis,36
+2022,28,Acute Diarrhoea,366
+2022,28,Acute Upper Respiratory Infections,3217
+2022,28,Chicken Pox,4
+2022,28,"Hand, Foot and Mouth Disease",24
+2022,29,Acute Conjunctivitis,41
+2022,29,Acute Diarrhoea,367
+2022,29,Acute Upper Respiratory Infections,3018
+2022,29,Chicken Pox,4
+2022,29,"Hand, Foot and Mouth Disease",17
+2022,30,Acute Conjunctivitis,39
+2022,30,Acute Diarrhoea,374
+2022,30,Acute Upper Respiratory Infections,2907
+2022,30,Chicken Pox,3
+2022,30,"Hand, Foot and Mouth Disease",23
+2022,31,Acute Conjunctivitis,41
+2022,31,Acute Diarrhoea,400
+2022,31,Acute Upper Respiratory Infections,2667
+2022,31,Chicken Pox,4
+2022,31,"Hand, Foot and Mouth Disease",23
+2022,32,Acute Conjunctivitis,44
+2022,32,Acute Diarrhoea,406
+2022,32,Acute Upper Respiratory Infections,2674
+2022,32,Chicken Pox,4
+2022,32,"Hand, Foot and Mouth Disease",32
+2022,33,Acute Conjunctivitis,43
+2022,33,Acute Diarrhoea,395
+2022,33,Acute Upper Respiratory Infections,2326
+2022,33,Chicken Pox,4
+2022,33,"Hand, Foot and Mouth Disease",26
+2022,34,Acute Conjunctivitis,47
+2022,34,Acute Diarrhoea,399
+2022,34,Acute Upper Respiratory Infections,2121
+2022,34,Chicken Pox,3
+2022,34,"Hand, Foot and Mouth Disease",25
+2022,35,Acute Conjunctivitis,44
+2022,35,Acute Diarrhoea,357
+2022,35,Acute Upper Respiratory Infections,1998
+2022,35,Chicken Pox,3
+2022,35,"Hand, Foot and Mouth Disease",31
+2022,36,Acute Conjunctivitis,37
+2022,36,Acute Diarrhoea,337
+2022,36,Acute Upper Respiratory Infections,2054
+2022,36,Chicken Pox,3
+2022,36,"Hand, Foot and Mouth Disease",25
+2022,37,Acute Conjunctivitis,51
+2022,37,Acute Diarrhoea,394
+2022,37,Acute Upper Respiratory Infections,2500
+2022,37,Chicken Pox,4
+2022,37,"Hand, Foot and Mouth Disease",23
+2022,39,Acute Conjunctivitis,47
+2022,39,Acute Diarrhoea,349
+2022,39,Acute Upper Respiratory Infections,2590
+2022,39,Chicken Pox,3
+2022,39,"Hand, Foot and Mouth Disease",23
+2022,40,Acute Conjunctivitis,46
+2022,40,Acute Diarrhoea,340
+2022,40,Acute Upper Respiratory Infections,2865
+2022,40,Chicken Pox,3
+2022,40,"Hand, Foot and Mouth Disease",21
+2022,41,Acute Conjunctivitis,40
+2022,41,Acute Diarrhoea,351
+2022,41,Acute Upper Respiratory Infections,3514
+2022,41,Chicken Pox,3
+2022,41,"Hand, Foot and Mouth Disease",20
+2022,42,Acute Conjunctivitis,46
+2022,42,Acute Diarrhoea,328
+2022,42,Acute Upper Respiratory Infections,3342
+2022,42,Chicken Pox,3
+2022,42,"Hand, Foot and Mouth Disease",16
+2022,43,Acute Conjunctivitis,56
+2022,43,Acute Diarrhoea,369
+2022,43,Acute Upper Respiratory Infections,3142
+2022,43,Chicken Pox,2
+2022,43,"Hand, Foot and Mouth Disease",13
+2022,44,Acute Conjunctivitis,51
+2022,44,Acute Diarrhoea,371
+2022,44,Acute Upper Respiratory Infections,2595
+2022,44,Chicken Pox,3
+2022,44,"Hand, Foot and Mouth Disease",0
+2022,45,Acute Conjunctivitis,51
+2022,45,Acute Diarrhoea,393
+2022,45,Acute Upper Respiratory Infections,2294
+2022,45,Chicken Pox,4
+2022,45,"Hand, Foot and Mouth Disease",16
+2022,46,Acute Conjunctivitis,46
+2022,46,Acute Diarrhoea,348
+2022,46,Acute Upper Respiratory Infections,2184
+2022,46,Chicken Pox,3
+2022,46,"Hand, Foot and Mouth Disease",15
+2022,47,Acute Conjunctivitis,54
+2022,47,Acute Diarrhoea,351
+2022,47,Acute Upper Respiratory Infections,2111
+2022,47,Chicken Pox,5
+2022,47,"Hand, Foot and Mouth Disease",14
+2022,48,Acute Conjunctivitis,49
+2022,48,Acute Diarrhoea,331
+2022,48,Acute Upper Respiratory Infections,2009
+2022,48,Chicken Pox,5
+2022,48,"Hand, Foot and Mouth Disease",11
+2022,49,Acute Conjunctivitis,57
+2022,49,Acute Diarrhoea,355
+2022,49,Acute Upper Respiratory Infections,1989
+2022,49,Chicken Pox,4
+2022,49,"Hand, Foot and Mouth Disease",15
+2022,50,Acute Conjunctivitis,47
+2022,50,Acute Diarrhoea,325
+2022,50,Acute Upper Respiratory Infections,2092
+2022,50,Chicken Pox,4
+2022,50,"Hand, Foot and Mouth Disease",17
+2022,51,Acute Conjunctivitis,61
+2022,51,Acute Diarrhoea,326
+2022,51,Acute Upper Respiratory Infections,2168
+2022,51,Chicken Pox,6
+2022,51,"Hand, Foot and Mouth Disease",14
+2022,52,Acute Conjunctivitis,64
+2022,52,Acute Diarrhoea,320
+2022,52,Acute Upper Respiratory Infections,2336
+2022,52,Chicken Pox,7
+2022,52,"Hand, Foot and Mouth Disease",12
+2023,1,Acute Conjunctivitis,69
+2023,1,Acute Diarrhoea,352
+2023,1,Acute Upper Respiratory Infections,2560
+2023,1,Chicken Pox,7
+2023,1,"Hand, Foot and Mouth Disease",10
+2023,2,Acute Conjunctivitis,65
+2023,2,Acute Diarrhoea,375
+2023,2,Acute Upper Respiratory Infections,2400
+2023,2,Chicken Pox,7
+2023,2,"Hand, Foot and Mouth Disease",14
+2023,3,Acute Conjunctivitis,63
+2023,3,Acute Diarrhoea,382
+2023,3,Acute Upper Respiratory Infections,2405
+2023,3,Chicken Pox,3
+2023,3,"Hand, Foot and Mouth Disease",15
+2023,4,Acute Conjunctivitis,66
+2023,4,Acute Diarrhoea,409
+2023,4,Acute Upper Respiratory Infections,2805
+2023,4,Chicken Pox,5
+2023,4,"Hand, Foot and Mouth Disease",21
+2023,5,Acute Conjunctivitis,71
+2023,5,Acute Diarrhoea,407
+2023,5,Acute Upper Respiratory Infections,2795
+2023,5,Chicken Pox,5
+2023,5,"Hand, Foot and Mouth Disease",25
+2023,6,Acute Conjunctivitis,75
+2023,6,Acute Diarrhoea,369
+2023,6,Acute Upper Respiratory Infections,2741
+2023,6,Chicken Pox,6
+2023,6,"Hand, Foot and Mouth Disease",25
+2023,7,Acute Conjunctivitis,77
+2023,7,Acute Diarrhoea,376
+2023,7,Acute Upper Respiratory Infections,2590
+2023,7,Chicken Pox,6
+2023,7,"Hand, Foot and Mouth Disease",23
+2023,8,Acute Conjunctivitis,76
+2023,8,Acute Diarrhoea,385
+2023,8,Acute Upper Respiratory Infections,2694
+2023,8,Chicken Pox,5
+2023,8,"Hand, Foot and Mouth Disease",22
+2023,9,Acute Conjunctivitis,77
+2023,9,Acute Diarrhoea,345
+2023,9,Acute Upper Respiratory Infections,2535
+2023,9,Chicken Pox,4
+2023,9,"Hand, Foot and Mouth Disease",29
+2023,10,Acute Conjunctivitis,83
+2023,10,Acute Diarrhoea,342
+2023,10,Acute Upper Respiratory Infections,2823
+2023,10,Chicken Pox,5
+2023,10,"Hand, Foot and Mouth Disease",22
+2023,12,Acute Conjunctivitis,85
+2023,12,Acute Diarrhoea,387
+2023,12,Acute Upper Respiratory Infections,2769
+2023,12,Chicken Pox,5
+2023,12,"Hand, Foot and Mouth Disease",22
+2023,13,Acute Conjunctivitis,87
+2023,13,Acute Diarrhoea,367
+2023,13,Acute Upper Respiratory Infections,2826
+2023,13,Chicken Pox,6
+2023,13,"Hand, Foot and Mouth Disease",22
+2023,14,Acute Conjunctivitis,85
+2023,14,Acute Diarrhoea,399
+2023,14,Acute Upper Respiratory Infections,3026
+2023,14,Chicken Pox,6
+2023,14,"Hand, Foot and Mouth Disease",27
+2023,15,Acute Conjunctivitis,74
+2023,15,Acute Diarrhoea,345
+2023,15,Acute Upper Respiratory Infections,3115
+2023,15,Chicken Pox,5
+2023,15,"Hand, Foot and Mouth Disease",27
+2023,16,Acute Conjunctivitis,82
+2023,16,Acute Diarrhoea,371
+2023,16,Acute Upper Respiratory Infections,3025
+2023,16,Chicken Pox,6
+2023,16,"Hand, Foot and Mouth Disease",22
+2023,17,Acute Conjunctivitis,69
+2023,17,Acute Diarrhoea,335
+2023,17,Acute Upper Respiratory Infections,2677
+2023,17,Chicken Pox,7
+2023,17,"Hand, Foot and Mouth Disease",21
+2023,19,Acute Conjunctivitis,57
+2023,19,Acute Diarrhoea,309
+2023,19,Acute Upper Respiratory Infections,2631
+2023,19,Chicken Pox,3
+2023,19,"Hand, Foot and Mouth Disease",28
+2023,20,Acute Conjunctivitis,65
+2023,20,Acute Diarrhoea,346
+2023,20,Acute Upper Respiratory Infections,2479
+2023,20,Chicken Pox,6
+2023,20,"Hand, Foot and Mouth Disease",32
+2023,21,Acute Conjunctivitis,70
+2023,21,Acute Diarrhoea,298
+2023,21,Acute Upper Respiratory Infections,2300
+2023,21,Chicken Pox,4
+2023,21,"Hand, Foot and Mouth Disease",29
+2023,22,Acute Conjunctivitis,62
+2023,22,Acute Diarrhoea,311
+2023,22,Acute Upper Respiratory Infections,2145
+2023,22,Chicken Pox,6
+2023,22,"Hand, Foot and Mouth Disease",27
+2023,23,Acute Conjunctivitis,50
+2023,23,Acute Diarrhoea,294
+2023,23,Acute Upper Respiratory Infections,1913
+2023,23,Chicken Pox,4
+2023,23,"Hand, Foot and Mouth Disease",24
+2023,24,Acute Conjunctivitis,46
+2023,24,Acute Diarrhoea,295
+2023,24,Acute Upper Respiratory Infections,1832
+2023,24,Chicken Pox,4
+2023,24,"Hand, Foot and Mouth Disease",19
+2023,25,Acute Conjunctivitis,49
+2023,25,Acute Diarrhoea,304
+2023,25,Acute Upper Respiratory Infections,1885
+2023,25,Chicken Pox,3
+2023,25,"Hand, Foot and Mouth Disease",19
+2023,26,Acute Conjunctivitis,56
+2023,26,Acute Diarrhoea,368
+2023,26,Acute Upper Respiratory Infections,2122
+2023,26,Chicken Pox,4
+2023,26,"Hand, Foot and Mouth Disease",26
+2023,27,Acute Conjunctivitis,63
+2023,27,Acute Diarrhoea,403
+2023,27,Acute Upper Respiratory Infections,2211
+2023,27,Chicken Pox,5
+2023,27,"Hand, Foot and Mouth Disease",21
+2023,28,Acute Conjunctivitis,62
+2023,28,Acute Diarrhoea,400
+2023,28,Acute Upper Respiratory Infections,2449
+2023,28,Chicken Pox,6
+2023,28,"Hand, Foot and Mouth Disease",23
+2023,29,Acute Conjunctivitis,65
+2023,29,Acute Diarrhoea,377
+2023,29,Acute Upper Respiratory Infections,2645
+2023,29,Chicken Pox,4
+2023,29,"Hand, Foot and Mouth Disease",23
+2023,30,Acute Conjunctivitis,64
+2023,30,Acute Diarrhoea,364
+2023,30,Acute Upper Respiratory Infections,2701
+2023,30,Chicken Pox,8
+2023,30,"Hand, Foot and Mouth Disease",24
+2023,31,Acute Conjunctivitis,65
+2023,31,Acute Diarrhoea,355
+2023,31,Acute Upper Respiratory Infections,2476
+2023,31,Chicken Pox,5
+2023,31,"Hand, Foot and Mouth Disease",19
+2023,32,Acute Conjunctivitis,69
+2023,32,Acute Diarrhoea,389
+2023,32,Acute Upper Respiratory Infections,2448
+2023,32,Chicken Pox,6
+2023,32,"Hand, Foot and Mouth Disease",23
+2023,33,Acute Conjunctivitis,70
+2023,33,Acute Diarrhoea,361
+2023,33,Acute Upper Respiratory Infections,2377
+2023,33,Chicken Pox,5
+2023,33,"Hand, Foot and Mouth Disease",16
+2023,34,Acute Conjunctivitis,70
+2023,34,Acute Diarrhoea,375
+2023,34,Acute Upper Respiratory Infections,2452
+2023,34,Chicken Pox,6
+2023,34,"Hand, Foot and Mouth Disease",13
+2023,35,Acute Conjunctivitis,63
+2023,35,Acute Diarrhoea,392
+2023,35,Acute Upper Respiratory Infections,2426
+2023,35,Chicken Pox,4
+2023,35,"Hand, Foot and Mouth Disease",21
+2023,36,Acute Conjunctivitis,56
+2023,36,Acute Diarrhoea,333
+2023,36,Acute Upper Respiratory Infections,2212
+2023,36,Chicken Pox,7
+2023,36,"Hand, Foot and Mouth Disease",15
+2023,37,Acute Conjunctivitis,53
+2023,37,Acute Diarrhoea,372
+2023,37,Acute Upper Respiratory Infections,2289
+2023,37,Chicken Pox,4
+2023,37,"Hand, Foot and Mouth Disease",17
+2023,38,Acute Conjunctivitis,61
+2023,38,Acute Diarrhoea,378
+2023,38,Acute Upper Respiratory Infections,2336
+2023,38,Chicken Pox,5
+2023,38,"Hand, Foot and Mouth Disease",9
+2023,39,Acute Conjunctivitis,59
+2023,39,Acute Diarrhoea,372
+2023,39,Acute Upper Respiratory Infections,2411
+2023,39,Chicken Pox,6
+2023,39,"Hand, Foot and Mouth Disease",15
+2023,40,Acute Conjunctivitis,65
+2023,40,Acute Diarrhoea,378
+2023,40,Acute Upper Respiratory Infections,2480
+2023,40,Chicken Pox,3
+2023,40,"Hand, Foot and Mouth Disease",15
+2023,42,Acute Conjunctivitis,56
+2023,42,Acute Diarrhoea,351
+2023,42,Acute Upper Respiratory Infections,2446
+2023,42,Chicken Pox,5
+2023,42,"Hand, Foot and Mouth Disease",13
+2023,43,Acute Conjunctivitis,59
+2023,43,Acute Diarrhoea,363
+2023,43,Acute Upper Respiratory Infections,2396
+2023,43,Chicken Pox,8
+2023,43,"Hand, Foot and Mouth Disease",14
+2023,44,Acute Conjunctivitis,59
+2023,44,Acute Diarrhoea,324
+2023,44,Acute Upper Respiratory Infections,2442
+2023,44,Chicken Pox,8
+2023,44,"Hand, Foot and Mouth Disease",14
+2023,45,Acute Conjunctivitis,55
+2023,45,Acute Diarrhoea,299
+2023,45,Acute Upper Respiratory Infections,2326
+2023,45,Chicken Pox,5
+2023,45,"Hand, Foot and Mouth Disease",15
+2023,46,Acute Conjunctivitis,60
+2023,46,Acute Diarrhoea,317
+2023,46,Acute Upper Respiratory Infections,2500
+2023,46,Chicken Pox,5
+2023,46,"Hand, Foot and Mouth Disease",12
+2023,47,Acute Conjunctivitis,60
+2023,47,Acute Diarrhoea,302
+2023,47,Acute Upper Respiratory Infections,2663
+2023,47,Chicken Pox,4
+2023,47,"Hand, Foot and Mouth Disease",14
+2023,48,Acute Conjunctivitis,62
+2023,48,Acute Diarrhoea,294
+2023,48,Acute Upper Respiratory Infections,2970
+2023,48,Chicken Pox,5
+2023,48,"Hand, Foot and Mouth Disease",13
+2023,49,Acute Conjunctivitis,59
+2023,49,Acute Diarrhoea,285
+2023,49,Acute Upper Respiratory Infections,3590
+2023,49,Chicken Pox,5
+2023,49,"Hand, Foot and Mouth Disease",10
+2023,50,Acute Conjunctivitis,60
+2023,50,Acute Diarrhoea,261
+2023,50,Acute Upper Respiratory Infections,3475
+2023,50,Chicken Pox,5
+2023,50,"Hand, Foot and Mouth Disease",11
+2023,51,Acute Conjunctivitis,65
+2023,51,Acute Diarrhoea,272
+2023,51,Acute Upper Respiratory Infections,2853
+2023,51,Chicken Pox,7
+2023,51,"Hand, Foot and Mouth Disease",13
+2023,52,Acute Conjunctivitis,69
+2023,52,Acute Diarrhoea,324
+2023,52,Acute Upper Respiratory Infections,2467
+2023,52,Chicken Pox,7
+2023,52,"Hand, Foot and Mouth Disease",16
+2024,1,Acute Conjunctivitis,79
+2024,1,Acute Diarrhoea,349
+2024,1,Acute Upper Respiratory Infections,2549
+2024,1,Chicken Pox,7
+2024,1,"Hand, Foot and Mouth Disease",14
+2024,2,Acute Conjunctivitis,80
+2024,2,Acute Diarrhoea,364
+2024,2,Acute Upper Respiratory Infections,2491
+2024,2,Chicken Pox,11
+2024,2,"Hand, Foot and Mouth Disease",12
+2024,3,Acute Conjunctivitis,84
+2024,3,Acute Diarrhoea,372
+2024,3,Acute Upper Respiratory Infections,2607
+2024,3,Chicken Pox,7
+2024,3,"Hand, Foot and Mouth Disease",22
+2024,4,Acute Conjunctivitis,81
+2024,4,Acute Diarrhoea,381
+2024,4,Acute Upper Respiratory Infections,2654
+2024,4,Chicken Pox,7
+2024,4,"Hand, Foot and Mouth Disease",24
+2024,5,Acute Conjunctivitis,74
+2024,5,Acute Diarrhoea,356
+2024,5,Acute Upper Respiratory Infections,2660
+2024,5,Chicken Pox,10
+2024,5,"Hand, Foot and Mouth Disease",26
+2024,6,Acute Conjunctivitis,86
+2024,6,Acute Diarrhoea,368
+2024,6,Acute Upper Respiratory Infections,2558
+2024,6,Chicken Pox,7
+2024,6,"Hand, Foot and Mouth Disease",28
+2024,7,Acute Conjunctivitis,76
+2024,7,Acute Diarrhoea,377
+2024,7,Acute Upper Respiratory Infections,2566
+2024,7,Chicken Pox,9
+2024,7,"Hand, Foot and Mouth Disease",32
+2024,8,Acute Conjunctivitis,78
+2024,8,Acute Diarrhoea,390
+2024,8,Acute Upper Respiratory Infections,2446
+2024,8,Chicken Pox,5
+2024,8,"Hand, Foot and Mouth Disease",28
+2024,9,Acute Conjunctivitis,75
+2024,9,Acute Diarrhoea,368
+2024,9,Acute Upper Respiratory Infections,2335
+2024,9,Chicken Pox,7
+2024,9,"Hand, Foot and Mouth Disease",25
+2024,10,Acute Conjunctivitis,63
+2024,10,Acute Diarrhoea,361
+2024,10,Acute Upper Respiratory Infections,2278
+2024,10,Chicken Pox,8
+2024,10,"Hand, Foot and Mouth Disease",29
+2024,11,Acute Conjunctivitis,74
+2024,11,Acute Diarrhoea,335
+2024,11,Acute Upper Respiratory Infections,2134
+2024,11,Chicken Pox,6
+2024,11,"Hand, Foot and Mouth Disease",28
+2024,12,Acute Conjunctivitis,68
+2024,12,Acute Diarrhoea,376
+2024,12,Acute Upper Respiratory Infections,2274
+2024,12,Chicken Pox,7
+2024,12,"Hand, Foot and Mouth Disease",25
+2024,13,Acute Conjunctivitis,90
+2024,13,Acute Diarrhoea,373
+2024,13,Acute Upper Respiratory Infections,2238
+2024,13,Chicken Pox,6
+2024,13,"Hand, Foot and Mouth Disease",27
+2024,14,Acute Conjunctivitis,80
+2024,14,Acute Diarrhoea,394
+2024,14,Acute Upper Respiratory Infections,2145
+2024,14,Chicken Pox,4
+2024,14,"Hand, Foot and Mouth Disease",19
+2024,15,Acute Conjunctivitis,67
+2024,15,Acute Diarrhoea,410
+2024,15,Acute Upper Respiratory Infections,2293
+2024,15,Chicken Pox,6
+2024,15,"Hand, Foot and Mouth Disease",26
+2024,16,Acute Conjunctivitis,65
+2024,16,Acute Diarrhoea,382
+2024,16,Acute Upper Respiratory Infections,2468
+2024,16,Chicken Pox,5
+2024,16,"Hand, Foot and Mouth Disease",16
+2024,17,Acute Conjunctivitis,65
+2024,17,Acute Diarrhoea,381
+2024,17,Acute Upper Respiratory Infections,2590
+2024,17,Chicken Pox,6
+2024,17,"Hand, Foot and Mouth Disease",22
+2024,18,Acute Conjunctivitis,76
+2024,18,Acute Diarrhoea,426
+2024,18,Acute Upper Respiratory Infections,2857
+2024,18,Chicken Pox,7
+2024,18,"Hand, Foot and Mouth Disease",34
+2024,19,Acute Conjunctivitis,69
+2024,19,Acute Diarrhoea,387
+2024,19,Acute Upper Respiratory Infections,2821
+2024,19,Chicken Pox,8
+2024,19,"Hand, Foot and Mouth Disease",33
+2024,20,Acute Conjunctivitis,66
+2024,20,Acute Diarrhoea,399
+2024,20,Acute Upper Respiratory Infections,2883
+2024,20,Chicken Pox,7
+2024,20,"Hand, Foot and Mouth Disease",43
+2024,21,Acute Conjunctivitis,74
+2024,21,Acute Diarrhoea,426
+2024,21,Acute Upper Respiratory Infections,3116
+2024,21,Chicken Pox,5
+2024,21,"Hand, Foot and Mouth Disease",50
+2024,22,Acute Conjunctivitis,71
+2024,22,Acute Diarrhoea,354
+2024,22,Acute Upper Respiratory Infections,2592
+2024,22,Chicken Pox,7
+2024,22,"Hand, Foot and Mouth Disease",35
+2024,23,Acute Conjunctivitis,68
+2024,23,Acute Diarrhoea,383
+2024,23,Acute Upper Respiratory Infections,2377
+2024,23,Chicken Pox,4
+2024,23,"Hand, Foot and Mouth Disease",25
+2024,24,Acute Conjunctivitis,67
+2024,24,Acute Diarrhoea,390
+2024,24,Acute Upper Respiratory Infections,2178
+2024,24,Chicken Pox,5
+2024,24,"Hand, Foot and Mouth Disease",25
+2024,25,Acute Conjunctivitis,73
+2024,25,Acute Diarrhoea,438
+2024,25,Acute Upper Respiratory Infections,2279
+2024,25,Chicken Pox,7
+2024,25,"Hand, Foot and Mouth Disease",29
+2024,26,Acute Conjunctivitis,74
+2024,26,Acute Diarrhoea,477
+2024,26,Acute Upper Respiratory Infections,2377
+2024,26,Chicken Pox,7
+2024,26,"Hand, Foot and Mouth Disease",32
+2024,27,Acute Conjunctivitis,74
+2024,27,Acute Diarrhoea,454
+2024,27,Acute Upper Respiratory Infections,2449
+2024,27,Chicken Pox,6
+2024,27,"Hand, Foot and Mouth Disease",34
+2024,28,Acute Conjunctivitis,74
+2024,28,Acute Diarrhoea,476
+2024,28,Acute Upper Respiratory Infections,2701
+2024,28,Chicken Pox,7
+2024,28,"Hand, Foot and Mouth Disease",36
+2024,29,Acute Conjunctivitis,78
+2024,29,Acute Diarrhoea,458
+2024,29,Acute Upper Respiratory Infections,2719
+2024,29,Chicken Pox,7
+2024,29,"Hand, Foot and Mouth Disease",41
+2024,30,Acute Conjunctivitis,83
+2024,30,Acute Diarrhoea,452
+2024,30,Acute Upper Respiratory Infections,2412
+2024,30,Chicken Pox,8
+2024,30,"Hand, Foot and Mouth Disease",43
+2024,31,Acute Conjunctivitis,79
+2024,31,Acute Diarrhoea,458
+2024,31,Acute Upper Respiratory Infections,2242
+2024,31,Chicken Pox,7
+2024,31,"Hand, Foot and Mouth Disease",39
+2024,32,Acute Conjunctivitis,79
+2024,32,Acute Diarrhoea,460
+2024,32,Acute Upper Respiratory Infections,2165
+2024,32,Chicken Pox,7
+2024,32,"Hand, Foot and Mouth Disease",42
+2024,33,Acute Conjunctivitis,81
+2024,33,Acute Diarrhoea,467
+2024,33,Acute Upper Respiratory Infections,2285
+2024,33,Chicken Pox,6
+2024,33,"Hand, Foot and Mouth Disease",33
+2024,34,Acute Conjunctivitis,87
+2024,34,Acute Diarrhoea,459
+2024,34,Acute Upper Respiratory Infections,2391
+2024,34,Chicken Pox,6
+2024,34,"Hand, Foot and Mouth Disease",30
+2024,35,Acute Conjunctivitis,74
+2024,35,Acute Diarrhoea,405
+2024,35,Acute Upper Respiratory Infections,2285
+2024,35,Chicken Pox,6
+2024,35,"Hand, Foot and Mouth Disease",31
+2024,36,Acute Conjunctivitis,81
+2024,36,Acute Diarrhoea,402
+2024,36,Acute Upper Respiratory Infections,2130
+2024,36,Chicken Pox,4
+2024,36,"Hand, Foot and Mouth Disease",29
+2024,37,Acute Conjunctivitis,76
+2024,37,Acute Diarrhoea,481
+2024,37,Acute Upper Respiratory Infections,2358
+2024,37,Chicken Pox,4
+2024,37,"Hand, Foot and Mouth Disease",22
+2024,38,Acute Conjunctivitis,90
+2024,38,Acute Diarrhoea,452
+2024,38,Acute Upper Respiratory Infections,2421
+2024,38,Chicken Pox,5
+2024,38,"Hand, Foot and Mouth Disease",26
+2024,39,Acute Conjunctivitis,79
+2024,39,Acute Diarrhoea,437
+2024,39,Acute Upper Respiratory Infections,2142
+2024,39,Chicken Pox,5
+2024,39,"Hand, Foot and Mouth Disease",18
+2024,40,Acute Conjunctivitis,73
+2024,40,Acute Diarrhoea,422
+2024,40,Acute Upper Respiratory Infections,2079
+2024,40,Chicken Pox,3
+2024,40,"Hand, Foot and Mouth Disease",18
+2024,41,Acute Conjunctivitis,86
+2024,41,Acute Diarrhoea,438
+2024,41,Acute Upper Respiratory Infections,2396
+2024,41,Chicken Pox,4
+2024,41,"Hand, Foot and Mouth Disease",25
+2024,42,Acute Conjunctivitis,86
+2024,42,Acute Diarrhoea,436
+2024,42,Acute Upper Respiratory Infections,2457
+2024,42,Chicken Pox,5
+2024,42,"Hand, Foot and Mouth Disease",25
+2024,43,Acute Conjunctivitis,90
+2024,43,Acute Diarrhoea,428
+2024,43,Acute Upper Respiratory Infections,2626
+2024,43,Chicken Pox,5
+2024,43,"Hand, Foot and Mouth Disease",25
+2024,44,Acute Conjunctivitis,93
+2024,44,Acute Diarrhoea,414
+2024,44,Acute Upper Respiratory Infections,2583
+2024,44,Chicken Pox,6
+2024,44,"Hand, Foot and Mouth Disease",36
+2024,45,Acute Conjunctivitis,89
+2024,45,Acute Diarrhoea,438
+2024,45,Acute Upper Respiratory Infections,2467
+2024,45,Chicken Pox,7
+2024,45,"Hand, Foot and Mouth Disease",28
+2024,46,Acute Conjunctivitis,84
+2024,46,Acute Diarrhoea,409
+2024,46,Acute Upper Respiratory Infections,2419
+2024,46,Chicken Pox,3
+2024,46,"Hand, Foot and Mouth Disease",24
+2024,47,Acute Conjunctivitis,76
+2024,47,Acute Diarrhoea,376
+2024,47,Acute Upper Respiratory Infections,2369
+2024,47,Chicken Pox,4
+2024,47,"Hand, Foot and Mouth Disease",22
+2024,48,Acute Conjunctivitis,85
+2024,48,Acute Diarrhoea,401
+2024,48,Acute Upper Respiratory Infections,2323
+2024,48,Chicken Pox,5
+2024,48,"Hand, Foot and Mouth Disease",24
+2024,49,Acute Conjunctivitis,88
+2024,49,Acute Diarrhoea,393
+2024,49,Acute Upper Respiratory Infections,2450
+2024,49,Chicken Pox,3
+2024,49,"Hand, Foot and Mouth Disease",27
+2024,50,Acute Conjunctivitis,95
+2024,50,Acute Diarrhoea,407
+2024,50,Acute Upper Respiratory Infections,2387
+2024,50,Chicken Pox,3
+2024,50,"Hand, Foot and Mouth Disease",21
+2024,51,Acute Conjunctivitis,88
+2024,51,Acute Diarrhoea,402
+2024,51,Acute Upper Respiratory Infections,2266
+2024,51,Chicken Pox,5
+2024,51,"Hand, Foot and Mouth Disease",22
+2024,52,Acute Conjunctivitis,112
+2024,52,Acute Diarrhoea,494
+2024,52,Acute Upper Respiratory Infections,2636
+2024,52,Chicken Pox,6
+2024,52,"Hand, Foot and Mouth Disease",31
+2025,1,Acute Conjunctivitis,116
+2025,1,Acute Diarrhoea,474
+2025,1,Acute Upper Respiratory Infections,2775
+2025,1,Chicken Pox,6
+2025,1,"Hand, Foot and Mouth Disease",27
+2025,2,Acute Conjunctivitis,101
+2025,2,Acute Diarrhoea,416
+2025,2,Acute Upper Respiratory Infections,2714
+2025,2,Chicken Pox,3
+2025,2,"Hand, Foot and Mouth Disease",22
+2025,3,Acute Conjunctivitis,100
+2025,3,Acute Diarrhoea,398
+2025,3,Acute Upper Respiratory Infections,2866
+2025,3,Chicken Pox,5
+2025,3,"Hand, Foot and Mouth Disease",24
+2025,4,Acute Conjunctivitis,97
+2025,4,Acute Diarrhoea,435
+2025,4,Acute Upper Respiratory Infections,3045
+2025,4,Chicken Pox,6
+2025,4,"Hand, Foot and Mouth Disease",24
+2025,5,Acute Conjunctivitis,131
+2025,5,Acute Diarrhoea,453
+2025,5,Acute Upper Respiratory Infections,3392
+2025,5,Chicken Pox,9
+2025,5,"Hand, Foot and Mouth Disease",37
+2025,6,Acute Conjunctivitis,111
+2025,6,Acute Diarrhoea,468
+2025,6,Acute Upper Respiratory Infections,3381
+2025,6,Chicken Pox,7
+2025,6,"Hand, Foot and Mouth Disease",32
+2025,7,Acute Conjunctivitis,119
+2025,7,Acute Diarrhoea,442
+2025,7,Acute Upper Respiratory Infections,3046
+2025,7,Chicken Pox,7
+2025,7,"Hand, Foot and Mouth Disease",33
+2025,8,Acute Conjunctivitis,109
+2025,8,Acute Diarrhoea,451
+2025,8,Acute Upper Respiratory Infections,2749
+2025,8,Chicken Pox,5
+2025,8,"Hand, Foot and Mouth Disease",31
+2025,9,Acute Conjunctivitis,106
+2025,9,Acute Diarrhoea,465
+2025,9,Acute Upper Respiratory Infections,2617
+2025,9,Chicken Pox,6
+2025,9,"Hand, Foot and Mouth Disease",29
+2025,10,Acute Conjunctivitis,103
+2025,10,Acute Diarrhoea,438
+2025,10,Acute Upper Respiratory Infections,2542
+2025,10,Chicken Pox,3
+2025,10,"Hand, Foot and Mouth Disease",35
+2025,11,Acute Conjunctivitis,108
+2025,11,Acute Diarrhoea,448
+2025,11,Acute Upper Respiratory Infections,2431
+2025,11,Chicken Pox,8
+2025,11,"Hand, Foot and Mouth Disease",39
+2025,12,Acute Conjunctivitis,93
+2025,12,Acute Diarrhoea,405
+2025,12,Acute Upper Respiratory Infections,2179
+2025,12,Chicken Pox,5
+2025,12,"Hand, Foot and Mouth Disease",37
+2025,13,Acute Conjunctivitis,114
+2025,13,Acute Diarrhoea,484
+2025,13,Acute Upper Respiratory Infections,2424
+2025,13,Chicken Pox,5
+2025,13,"Hand, Foot and Mouth Disease",39
+2025,14,Acute Conjunctivitis,120
+2025,14,Acute Diarrhoea,487
+2025,14,Acute Upper Respiratory Infections,2471
+2025,14,Chicken Pox,7
+2025,14,"Hand, Foot and Mouth Disease",43
+2025,15,Acute Conjunctivitis,91
+2025,15,Acute Diarrhoea,453
+2025,15,Acute Upper Respiratory Infections,2632
+2025,15,Chicken Pox,4
+2025,15,"Hand, Foot and Mouth Disease",43
+2025,16,Acute Conjunctivitis,97
+2025,16,Acute Diarrhoea,461
+2025,16,Acute Upper Respiratory Infections,2749
+2025,16,Chicken Pox,6
+2025,16,"Hand, Foot and Mouth Disease",53
+2025,17,Acute Conjunctivitis,92
+2025,17,Acute Diarrhoea,443
+2025,17,Acute Upper Respiratory Infections,2781
+2025,17,Chicken Pox,8
+2025,17,"Hand, Foot and Mouth Disease",51
+2025,18,Acute Conjunctivitis,102
+2025,18,Acute Diarrhoea,481
+2025,18,Acute Upper Respiratory Infections,2906
+2025,18,Chicken Pox,7
+2025,18,"Hand, Foot and Mouth Disease",61
+2025,19,Acute Conjunctivitis,104
+2025,19,Acute Diarrhoea,405
+2025,19,Acute Upper Respiratory Infections,2711
+2025,19,Chicken Pox,6
+2025,19,"Hand, Foot and Mouth Disease",49
+2025,20,Acute Conjunctivitis,83
+2025,20,Acute Diarrhoea,426
+2025,20,Acute Upper Respiratory Infections,2828
+2025,20,Chicken Pox,6
+2025,20,"Hand, Foot and Mouth Disease",52
+2025,21,Acute Conjunctivitis,95
+2025,21,Acute Diarrhoea,445
+2025,21,Acute Upper Respiratory Infections,2856
+2025,21,Chicken Pox,6
+2025,21,"Hand, Foot and Mouth Disease",47
+2025,22,Acute Conjunctivitis,74
+2025,22,Acute Diarrhoea,417
+2025,22,Acute Upper Respiratory Infections,2636
+2025,22,Chicken Pox,7
+2025,22,"Hand, Foot and Mouth Disease",37
+2025,23,Acute Conjunctivitis,81
+2025,23,Acute Diarrhoea,416
+2025,23,Acute Upper Respiratory Infections,2338
+2025,23,Chicken Pox,5
+2025,23,"Hand, Foot and Mouth Disease",33
+2025,24,Acute Conjunctivitis,84
+2025,24,Acute Diarrhoea,382
+2025,24,Acute Upper Respiratory Infections,2154
+2025,24,Chicken Pox,5
+2025,24,"Hand, Foot and Mouth Disease",29
+2025,25,Acute Conjunctivitis,84
+2025,25,Acute Diarrhoea,423
+2025,25,Acute Upper Respiratory Infections,1996
+2025,25,Chicken Pox,5
+2025,25,"Hand, Foot and Mouth Disease",21
+2025,26,Acute Conjunctivitis,87
+2025,26,Acute Diarrhoea,433
+2025,26,Acute Upper Respiratory Infections,2018
+2025,26,Chicken Pox,4
+2025,26,"Hand, Foot and Mouth Disease",20
+2025,27,Acute Conjunctivitis,88
+2025,27,Acute Diarrhoea,473
+2025,27,Acute Upper Respiratory Infections,2147
+2025,27,Chicken Pox,5
+2025,27,"Hand, Foot and Mouth Disease",25
+2025,28,Acute Conjunctivitis,83
+2025,28,Acute Diarrhoea,461
+2025,28,Acute Upper Respiratory Infections,2148
+2025,28,Chicken Pox,5
+2025,28,"Hand, Foot and Mouth Disease",20
+2025,29,Acute Conjunctivitis,85
+2025,29,Acute Diarrhoea,461
+2025,29,Acute Upper Respiratory Infections,2282
+2025,29,Chicken Pox,6
+2025,29,"Hand, Foot and Mouth Disease",20
+2025,30,Acute Conjunctivitis,87
+2025,30,Acute Diarrhoea,493
+2025,30,Acute Upper Respiratory Infections,2304
+2025,30,Chicken Pox,4
+2025,30,"Hand, Foot and Mouth Disease",20
+2025,31,Acute Conjunctivitis,87
+2025,31,Acute Diarrhoea,475
+2025,31,Acute Upper Respiratory Infections,2298
+2025,31,Chicken Pox,4
+2025,31,"Hand, Foot and Mouth Disease",22
+2025,32,Acute Conjunctivitis,86
+2025,32,Acute Diarrhoea,517
+2025,32,Acute Upper Respiratory Infections,2274
+2025,32,Chicken Pox,5
+2025,32,"Hand, Foot and Mouth Disease",16
+2025,33,Acute Conjunctivitis,88
+2025,33,Acute Diarrhoea,463
+2025,33,Acute Upper Respiratory Infections,2353
+2025,33,Chicken Pox,6
+2025,33,"Hand, Foot and Mouth Disease",19
+2025,34,Acute Conjunctivitis,79
+2025,34,Acute Diarrhoea,477
+2025,34,Acute Upper Respiratory Infections,2501
+2025,34,Chicken Pox,6
+2025,34,"Hand, Foot and Mouth Disease",16
+2025,35,Acute Conjunctivitis,90
+2025,35,Acute Diarrhoea,481
+2025,35,Acute Upper Respiratory Infections,2553
+2025,35,Chicken Pox,7
+2025,35,"Hand, Foot and Mouth Disease",19
+2025,36,Acute Conjunctivitis,82
+2025,36,Acute Diarrhoea,451
+2025,36,Acute Upper Respiratory Infections,2520
+2025,36,Chicken Pox,5
+2025,36,"Hand, Foot and Mouth Disease",16
+2025,37,Acute Conjunctivitis,86
+2025,37,Acute Diarrhoea,404
+2025,37,Acute Upper Respiratory Infections,2498
+2025,37,Chicken Pox,5
+2025,37,"Hand, Foot and Mouth Disease",13
+2025,38,Acute Conjunctivitis,98
+2025,38,Acute Diarrhoea,453
+2025,38,Acute Upper Respiratory Infections,2809
+2025,38,Chicken Pox,7
+2025,38,"Hand, Foot and Mouth Disease",17
+2025,39,Acute Conjunctivitis,95
+2025,39,Acute Diarrhoea,452
+2025,39,Acute Upper Respiratory Infections,2748
+2025,39,Chicken Pox,7
+2025,39,"Hand, Foot and Mouth Disease",18
+2025,40,Acute Conjunctivitis,94
+2025,40,Acute Diarrhoea,435
+2025,40,Acute Upper Respiratory Infections,2646
+2025,40,Chicken Pox,3
+2025,40,"Hand, Foot and Mouth Disease",17
+2025,41,Acute Conjunctivitis,86
+2025,41,Acute Diarrhoea,442
+2025,41,Acute Upper Respiratory Infections,2715
+2025,41,Chicken Pox,4
+2025,41,"Hand, Foot and Mouth Disease",16
+2025,42,Acute Conjunctivitis,88
+2025,42,Acute Diarrhoea,430
+2025,42,Acute Upper Respiratory Infections,2776
+2025,42,Chicken Pox,5
+2025,42,"Hand, Foot and Mouth Disease",14
+2025,43,Acute Conjunctivitis,93
+2025,43,Acute Diarrhoea,444
+2025,43,Acute Upper Respiratory Infections,2691
+2025,43,Chicken Pox,6
+2025,43,"Hand, Foot and Mouth Disease",11
+2025,44,Acute Conjunctivitis,87
+2025,44,Acute Diarrhoea,425
+2025,44,Acute Upper Respiratory Infections,2592
+2025,44,Chicken Pox,4
+2025,44,"Hand, Foot and Mouth Disease",11
+2025,45,Acute Conjunctivitis,82
+2025,45,Acute Diarrhoea,403
+2025,45,Acute Upper Respiratory Infections,2487
+2025,45,Chicken Pox,4
+2025,45,"Hand, Foot and Mouth Disease",11
+2025,46,Acute Conjunctivitis,88
+2025,46,Acute Diarrhoea,401
+2025,46,Acute Upper Respiratory Infections,2445
+2025,46,Chicken Pox,3
+2025,46,"Hand, Foot and Mouth Disease",14
+2025,47,Acute Conjunctivitis,87
+2025,47,Acute Diarrhoea,437
+2025,47,Acute Upper Respiratory Infections,2443
+2025,47,Chicken Pox,5
+2025,47,"Hand, Foot and Mouth Disease",14
+2025,48,Acute Conjunctivitis,81
+2025,48,Acute Diarrhoea,409
+2025,48,Acute Upper Respiratory Infections,2450
+2025,48,Chicken Pox,3
+2025,48,"Hand, Foot and Mouth Disease",11
+2025,49,Acute Conjunctivitis,74
+2025,49,Acute Diarrhoea,383
+2025,49,Acute Upper Respiratory Infections,2452
+2025,49,Chicken Pox,2
+2025,49,"Hand, Foot and Mouth Disease",11
+2025,50,Acute Conjunctivitis,86
+2025,50,Acute Diarrhoea,397
+2025,50,Acute Upper Respiratory Infections,2523
+2025,50,Chicken Pox,4
+2025,50,"Hand, Foot and Mouth Disease",8
+2025,51,Acute Conjunctivitis,84
+2025,51,Acute Diarrhoea,400
+2025,51,Acute Upper Respiratory Infections,2452
+2025,51,Chicken Pox,5
+2025,51,"Hand, Foot and Mouth Disease",8
+2025,52,Acute Conjunctivitis,113
+2025,52,Acute Diarrhoea,428
+2025,52,Acute Upper Respiratory Infections,2735
+2025,52,Chicken Pox,6
+2025,52,"Hand, Foot and Mouth Disease",16
+2025,53,Acute Conjunctivitis,119
+2025,53,Acute Diarrhoea,478
+2025,53,Acute Upper Respiratory Infections,2832
+2025,53,Chicken Pox,7
+2025,53,"Hand, Foot and Mouth Disease",15
+2026,1,Acute Conjunctivitis,121
+2026,1,Acute Diarrhoea,438
+2026,1,Acute Upper Respiratory Infections,2857
+2026,1,Chicken Pox,6
+2026,1,"Hand, Foot and Mouth Disease",15
+2026,2,Acute Conjunctivitis,118
+2026,2,Acute Diarrhoea,460
+2026,2,Acute Upper Respiratory Infections,2938
+2026,2,Chicken Pox,7
+2026,2,"Hand, Foot and Mouth Disease",18
+2026,3,Acute Conjunctivitis,117
+2026,3,Acute Diarrhoea,471
+2026,3,Acute Upper Respiratory Infections,3093
+2026,3,Chicken Pox,6
+2026,3,"Hand, Foot and Mouth Disease",16
+2026,4,Acute Conjunctivitis,121
+2026,4,Acute Diarrhoea,424
+2026,4,Acute Upper Respiratory Infections,3017
+2026,4,Chicken Pox,5
+2026,4,"Hand, Foot and Mouth Disease",16
+2026,5,Acute Conjunctivitis,119
+2026,5,Acute Diarrhoea,460
+2026,5,Acute Upper Respiratory Infections,2992
+2026,5,Chicken Pox,5
+2026,5,"Hand, Foot and Mouth Disease",17
+2026,6,Acute Conjunctivitis,106
+2026,6,Acute Diarrhoea,437
+2026,6,Acute Upper Respiratory Infections,2835
+2026,6,Chicken Pox,5
+2026,6,"Hand, Foot and Mouth Disease",19
+2026,7,Acute Conjunctivitis,119
+2026,7,Acute Diarrhoea,578
+2026,7,Acute Upper Respiratory Infections,3039
+2026,7,Chicken Pox,9
+2026,7,"Hand, Foot and Mouth Disease",19
+2026,8,Acute Conjunctivitis,110
+2026,8,Acute Diarrhoea,527
+2026,8,Acute Upper Respiratory Infections,2801
+2026,8,Chicken Pox,5
+2026,8,"Hand, Foot and Mouth Disease",15
+2026,9,Acute Conjunctivitis,109
+2026,9,Acute Diarrhoea,479
+2026,9,Acute Upper Respiratory Infections,2760
+2026,9,Chicken Pox,7
+2026,9,"Hand, Foot and Mouth Disease",19
+2026,10,Acute Conjunctivitis,99
+2026,10,Acute Diarrhoea,434
+2026,10,Acute Upper Respiratory Infections,2575
+2026,10,Chicken Pox,5
+2026,10,"Hand, Foot and Mouth Disease",19
+2026,11,Acute Conjunctivitis,100
+2026,11,Acute Diarrhoea,448
+2026,11,Acute Upper Respiratory Infections,2377
+2026,11,Chicken Pox,5
+2026,11,"Hand, Foot and Mouth Disease",10
+2026,12,Acute Conjunctivitis,101
+2026,12,Acute Diarrhoea,476
+2026,12,Acute Upper Respiratory Infections,2500
+2026,12,Chicken Pox,6
+2026,12,"Hand, Foot and Mouth Disease",10
+2026,13,Acute Conjunctivitis,106
+2026,13,Acute Diarrhoea,490
+2026,13,Acute Upper Respiratory Infections,2512
+2026,13,Chicken Pox,6
+2026,13,"Hand, Foot and Mouth Disease",18
+2026,14,Acute Conjunctivitis,93
+2026,14,Acute Diarrhoea,497
+2026,14,Acute Upper Respiratory Infections,2512
+2026,14,Chicken Pox,6
+2026,14,"Hand, Foot and Mouth Disease",15
+2026,15,Acute Conjunctivitis,98
+2026,15,Acute Diarrhoea,483
+2026,15,Acute Upper Respiratory Infections,2531
+2026,15,Chicken Pox,7
+2026,15,"Hand, Foot and Mouth Disease",16
+2026,16,Acute Conjunctivitis,94
+2026,16,Acute Diarrhoea,454
+2026,16,Acute Upper Respiratory Infections,2590
+2026,16,Chicken Pox,4
+2026,16,"Hand, Foot and Mouth Disease",24
+2026,17,Acute Conjunctivitis,102
+2026,17,Acute Diarrhoea,483
+2026,17,Acute Upper Respiratory Infections,2667
+2026,17,Chicken Pox,7
+2026,17,"Hand, Foot and Mouth Disease",21
+2026,18,Acute Conjunctivitis,96
+2026,18,Acute Diarrhoea,485
+2026,18,Acute Upper Respiratory Infections,2787
+2026,18,Chicken Pox,7
+2026,18,"Hand, Foot and Mouth Disease",17
+2026,19,Acute Conjunctivitis,86
+2026,19,Acute Diarrhoea,451
+2026,19,Acute Upper Respiratory Infections,2858
+2026,19,Chicken Pox,5
+2026,19,"Hand, Foot and Mouth Disease",18
+2026,20,Acute Conjunctivitis,87
+2026,20,Acute Diarrhoea,438
+2026,20,Acute Upper Respiratory Infections,2973
+2026,20,Chicken Pox,7
+2026,20,"Hand, Foot and Mouth Disease",29
+2026,21,Acute Conjunctivitis,89
+2026,21,Acute Diarrhoea,435
+2026,21,Acute Upper Respiratory Infections,3169
+2026,21,Chicken Pox,7
+2026,21,"Hand, Foot and Mouth Disease",27
+2026,22,Acute Conjunctivitis,92
+2026,22,Acute Diarrhoea,407
+2026,22,Acute Upper Respiratory Infections,2748
+2026,22,Chicken Pox,4
+2026,22,"Hand, Foot and Mouth Disease",22
+2026,23,Acute Conjunctivitis,93
+2026,23,Acute Diarrhoea,406
+2026,23,Acute Upper Respiratory Infections,2489
+2026,23,Chicken Pox,3
+2026,23,"Hand, Foot and Mouth Disease",17
+2026,24,Acute Conjunctivitis,88
+2026,24,Acute Diarrhoea,415
+2026,24,Acute Upper Respiratory Infections,2489
+2026,24,Chicken Pox,5
+2026,24,"Hand, Foot and Mouth Disease",24
+2026,25,Acute Conjunctivitis,79
+2026,25,Acute Diarrhoea,441
+2026,25,Acute Upper Respiratory Infections,2556
+2026,25,Chicken Pox,4
+2026,25,"Hand, Foot and Mouth Disease",29
+2026,26,Acute Conjunctivitis,89
+2026,26,Acute Diarrhoea,495
+2026,26,Acute Upper Respiratory Infections,2644
+2026,26,Chicken Pox,6
+2026,26,"Hand, Foot and Mouth Disease",30
+2026,27,Acute Conjunctivitis,85
+2026,27,Acute Diarrhoea,470
+2026,27,Acute Upper Respiratory Infections,2633
+2026,27,Chicken Pox,5
+2026,27,"Hand, Foot and Mouth Disease",30
+2026,28,Acute Conjunctivitis,88
+2026,28,Acute Diarrhoea,462
+2026,28,Acute Upper Respiratory Infections,2663
+2026,28,Chicken Pox,6
+2026,28,"Hand, Foot and Mouth Disease",33
+2026,29,Acute Conjunctivitis,85
+2026,29,Acute Diarrhoea,473
+2026,29,Acute Upper Respiratory Infections,2683
+2026,29,Chicken Pox,5
+2026,29,"Hand, Foot and Mouth Disease",29
+2026,30,Acute Conjunctivitis,86
+2026,30,Acute Diarrhoea,466
+2026,30,Acute Upper Respiratory Infections,2682
+2026,30,Chicken Pox,6
+2026,30,"Hand, Foot and Mouth Disease",30
+2026,31,Acute Conjunctivitis,83
+2026,31,Acute Diarrhoea,447
+2026,31,Acute Upper Respiratory Infections,2568
+2026,31,Chicken Pox,4
+2026,31,"Hand, Foot and Mouth Disease",21
+2026,32,Acute Conjunctivitis,80
+2026,32,Acute Diarrhoea,447
+2026,32,Acute Upper Respiratory Infections,2709
+2026,32,Chicken Pox,6
+2026,32,"Hand, Foot and Mouth Disease",22
+2026,33,Acute Conjunctivitis,76
+2026,33,Acute Diarrhoea,457
+2026,33,Acute Upper Respiratory Infections,2541
+2026,33,Chicken Pox,5
+2026,33,"Hand, Foot and Mouth Disease",24
+2026,34,Acute Conjunctivitis,85
+2026,34,Acute Diarrhoea,461
+2026,34,Acute Upper Respiratory Infections,2555
+2026,34,Chicken Pox,4
+2026,34,"Hand, Foot and Mouth Disease",21
+2026,35,Acute Conjunctivitis,85
+2026,35,Acute Diarrhoea,428
+2026,35,Acute Upper Respiratory Infections,2399
+2026,35,Chicken Pox,5
+2026,35,"Hand, Foot and Mouth Disease",20
+2026,36,Acute Conjunctivitis,76
+2026,36,Acute Diarrhoea,399
+2026,36,Acute Upper Respiratory Infections,2295
+2026,36,Chicken Pox,4
+2026,36,"Hand, Foot and Mouth Disease",21
+2026,37,Acute Conjunctivitis,82
+2026,37,Acute Diarrhoea,462
+2026,37,Acute Upper Respiratory Infections,2575
+2026,37,Chicken Pox,6
+2026,37,"Hand, Foot and Mouth Disease",18
+2026,38,Acute Conjunctivitis,77
+2026,38,Acute Diarrhoea,448
+2026,38,Acute Upper Respiratory Infections,2579
+2026,38,Chicken Pox,4
+2026,38,"Hand, Foot and Mouth Disease",16
+2026,39,Acute Conjunctivitis,79
+2026,39,Acute Diarrhoea,419
+2026,39,Acute Upper Respiratory Infections,2747
+2026,39,Chicken Pox,6
+2026,39,"Hand, Foot and Mouth Disease",16
+2026,40,Acute Conjunctivitis,66
+2026,40,Acute Diarrhoea,361
+2026,40,Acute Upper Respiratory Infections,2590
+2026,40,Chicken Pox,4
+2026,40,"Hand, Foot and Mouth Disease",17
